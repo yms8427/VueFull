@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "fullname": "Hakan Yıldırır",
+    "rating": 9,
+    "title": null,
+    "photo": "/img/hakan.jpg"
+  },
+  {
+    "id": 2,
+    "fullname": "Hanna Sveasson",
+    "rating": 7.8,
+    "title": "Satış Uzmanı",
+    "photo": "/img/hanna.jpg"
+  },
+  {
+    "id": 3,
+    "fullname": "Kim Jong Un",
+    "rating": 5,
+    "title": "Dikdatör",
+    "photo": "/img/kim.jpg"
+  },
+  {
+    "id": 4,
+    "fullname": "Yevgen Kruphin",
+    "rating": 8.6,
+    "title": null,
+    "photo": "/img/yevgen.jpg"
+  },
+  {
+    "id": 5,
+    "fullname": "Can Perk",
+    "rating": 9.9,
+    "title": "Developer",
+    "photo": null
+  },
+  {
+    "id": 6,
+    "fullname": "Halil Bozkurt",
+    "rating": 4.2,
+    "title": null,
+    "photo": null
+  },
+  {
+    "id": 7,
+    "fullname": "Caner Kaya",
+    "rating": 7.9,
+    "title": null,
+    "photo": null
+  }
+]
