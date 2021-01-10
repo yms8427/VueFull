@@ -47,21 +47,21 @@ export default {
   props: {
     fullname: {
       type: String,
-      required: true,
+      required: true
     },
     title: {
-      type: String,
+      type: String
     },
     rating: {
       type: Number,
       default: 3,
       validator: function(value) {
         return value <= 10 && value >= 0;
-      },
+      }
     },
     photo: {
-      type: String,
-    },
+      type: String
+    }
   },
   computed: {
     profilePhoto: function() {
@@ -75,8 +75,8 @@ export default {
         return this.title;
       }
       return "-";
-    },
-  },
+    }
+  }
 };
 </script>
 

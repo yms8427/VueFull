@@ -15,17 +15,17 @@ export default {
       default: "default",
       validator: function(value) {
         return VARIANTS.indexOf(value) > -1;
-      },
+      }
     },
     font: {
-      type: String,
-    },
+      type: String
+    }
   },
   computed: {
     mainClass: function() {
       return "btn-" + this.variant;
-    },
-  },
+    }
+  }
 };
 </script>
 
